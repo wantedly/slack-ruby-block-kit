@@ -14,7 +14,7 @@ GEM
     diff-lcs (1.4.4)
     docile (1.3.2)
     dotenv (2.7.6)
-    faraday (1.1.0)
+    faraday (1.2.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     json (2.3.1)
